@@ -1,16 +1,16 @@
 {
-  "Git_Configuration": [
-    {
-      "git_username": "jolerasioo",
-      "git_provider": "gitHub"
-    }
-  ],
-  "Repo_Configuration": [
-    {
-      "url": "https://github.com/jose-alonso-portfolio/dstoolkit-mlops-databricks",
-      "provider": "gitHub",
-      "path": "Sandbox",
-      "branch": "main"
-    }
-  ]
+    "Git_Configuration":  [
+                              {
+                                  "git_username":  "jolerasioo",
+                                  "git_provider":  "gitHub"
+                              }
+                          ],
+    "Repo_Configuration":  [
+                               {
+                                   "url":  "https://github.com/jose-alonso-portfolio/dstoolkit-mlops-databricks.git",
+                                   "provider":  "gitHub",
+                                   "path":  "Sandbox",
+                                   "branch":  "main"
+                               }
+                           ]
 }
